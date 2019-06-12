@@ -2,12 +2,14 @@
 
 <h2> Sites and blogs</h2> 
 
-- [Papers with code](https://paperswithcode.com/). Awesome resource that contains links to original papers as well as their implementation and leaderbords
-- [https://colah.github.io/](https://colah.github.io/).	Very nice explanation of concepts like CNN, RNN and many more with nice visualiztion
-- [http://jalammar.github.io/](http://jalammar.github.io/).	Simple explanation of advanced NLP topics like attention, transformers, Bert etc.
-- [Towards Data Science](https://towardsdatascience.com/).	Daily updated collection of articles on machine learning and data science concepts.Huge collections of articles on almost every machine learning concepts. You can contribute articles on this. 
-- [ML Mastery](https://machinelearningmastery.com/blog/).	ML and DL concepts in practical way with implementation details
+- [Papers with code](https://paperswithcode.com/). Awesome resource that contains links to original papers as well as their implementation and leaderbords.
+- [https://colah.github.io/](https://colah.github.io/). Very nice explanation of concepts like CNN, RNN and many more with nice visualiztion.
+- [http://jalammar.github.io/](http://jalammar.github.io/). Simple explanation of advanced NLP topics like attention, transformers, Bert etc.
+- [Towards Data Science](https://towardsdatascience.com/). Daily updated collection of articles on machine learning and data science concepts.Huge collections of articles on almost every machine learning concepts. You can contribute articles on this. 
+- [ML Mastery](https://machinelearningmastery.com/blog/). ML and DL concepts in practical way with implementation details
 - [AI Trends](https://www.aitrends.com/). Latest News on AI
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/). Great archive to search, filter, bookmark papers with added recommendation feature made by Andrej Karpathy.
+- [https://www.reddit.com/r/MachineLearning/](https://www.reddit.com/r/MachineLearning/). Machine Learning subreddit where interesting papers are shared and discusses within the community.
 
 <h2>Courses</h2>
 
